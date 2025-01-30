@@ -1,0 +1,14 @@
+# Binaries
+/bin/
+/monitor
+*.exe
+
+# Dependency directories
+vendor/
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment files
+.env
